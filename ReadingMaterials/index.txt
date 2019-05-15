@@ -1,0 +1,3 @@
+Topics						URL
+------						---
+Domain Adaptation				https://medium.com/neuromation-blog/state-of-the-art-in-domain-adaptation-cvpr-in-review-iv-21ac05f935b9
